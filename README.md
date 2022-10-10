@@ -3,7 +3,8 @@ Performed Data analysis of an E-commerce Database
 data. Find various KPIs for an e-commerce company like
 sales by product, sales by category, offer effectiveness,
 customer acquisition
-Q1. You are an Analyst working for an E-commerce company. Your manager had a
+
+#Q1. You are an Analyst working for an E-commerce company. Your manager had a
 discussion with the leadership and asked you to work on the analysis below.
 A. Create a YOY analysis for the count of customers enrolled with the company
 each month. The output should look like:
